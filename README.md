@@ -1,6 +1,7 @@
-[![Build Status][ot-travis-svg]][ot-travis]
-[![Coverage Status][ot-codecov-svg]][ot-codecov]
-[![Build Status][ot-docker-dev-svg]][ot-docker-dev]
+[![Build Status][ot-rtos-travis-svg]][ot-rtos-travis]
+
+[ot-rtos-travis]: https://travis-ci.org/openthread/ot-rtos
+[ot-rtos-travis-svg]: https://travis-ci.org/openthread/ot-rtos.svg?branch=master
 
 ---
 
